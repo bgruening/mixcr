@@ -191,9 +191,7 @@ To activate the license do one of the following:
 
 ## Usage & documentation
 
-See usage examples in the official documentation https://mixcr.readthedocs.io/en/master/quickstart.html
-
-Detailed documentation can be found at https://mixcr.readthedocs.io/
+See usage examples and detailed documentation at https://docs.milaboratories.com
 
 If you haven't found the answer to your question in the docs, or have any suggestions concerning new features, feel free to create an issue here, on GitHub, or write an email to support@milaboratory.com .
 
