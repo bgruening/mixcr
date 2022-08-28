@@ -1,8 +1,8 @@
-[![image](https://readthedocs.org/projects/mixcr/badge/?version=latest)](https://mixcr.readthedocs.io)
+[![image](https://readthedocs.org/projects/mixcr/badge/?version=latest)](https://docs.milaboratories.com)
 
 
-![MiXCR logo](./doc/_static/MiXCR_logo_dark.png#gh-light-mode-only)
-![MiXCR logo](./doc/_static/MiXCR_logo_white.png#gh-dark-mode-only)
+[![MiXCR logo](./doc/_static/MiXCR_logo_dark.png#gh-light-mode-only)](https://docs.milaboratories.com)
+[![MiXCR logo](./doc/_static/MiXCR_logo_white.png#gh-dark-mode-only)](https://docs.milaboratories.com)
 
 MiXCR is a universal software for fast and accurate analysis of raw T- or B- cell receptor repertoire sequencing data. It works with any kind of sequencing data:
  - Bulk repertoire sequencing data with or without UMIs
