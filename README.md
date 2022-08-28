@@ -1,8 +1,8 @@
-[![image](https://readthedocs.org/projects/mixcr/badge/?version=latest)](https://docs.milaboratories.com)
+[![image](https://img.shields.io/badge/documentation-v4.x-brightgreen)](https://docs.milaboratories.com)
 
 
-[![MiXCR logo](./doc/_static/MiXCR_logo_dark.png#gh-light-mode-only)](https://docs.milaboratories.com)
-[![MiXCR logo](./doc/_static/MiXCR_logo_white.png#gh-dark-mode-only)](https://docs.milaboratories.com)
+![MiXCR logo](./doc/_static/MiXCR_logo_dark.png#gh-light-mode-only)
+![MiXCR logo](./doc/_static/MiXCR_logo_white.png#gh-dark-mode-only)
 
 MiXCR is a universal software for fast and accurate analysis of raw T- or B- cell receptor repertoire sequencing data. It works with any kind of sequencing data:
  - Bulk repertoire sequencing data with or without UMIs
@@ -39,6 +39,8 @@ Other key features:
     - positions of all immunologically relevant points in output sequences
     - and many more informative columns
 - Ability to backtrack fate of each raw sequencing read through the whole pipeline 
+
+See full documentation at [https://docs.milaboratories.com](https://docs.milaboratories.com).
 
 ## Who uses MiXCR 
 MiXCR is used by 8 out of 10 world leading pharmaceutical companies in the R&D for:
